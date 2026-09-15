@@ -1,0 +1,6 @@
+{
+  "name": "UrbanKeys | Real Estate Consultant",
+  "description": "UrbanKeys is a Ranchi-based real estate consultant helping families, bachelors and professionals find suitable properties with private viewings and trusted deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
